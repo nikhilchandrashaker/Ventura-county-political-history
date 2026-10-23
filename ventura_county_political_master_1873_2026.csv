@@ -1,0 +1,367 @@
+year,election_date,county,state,election_type,district_or_seat,candidate,party,votes,vote_pct,total_votes,candidate_status
+1876,1876,Ventura,California,Presidential General,Countywide,Rutherford B. Hayes,Republican,608,50.709,1199,Winner
+1876,1876,Ventura,California,Presidential General,Countywide,Samuel J. Tilden,Democratic,591,49.291,1199,Candidate
+1876,1876,Ventura,California,Presidential General,Countywide,Peter Cooper,Greenback,0,0.0,1199,Candidate
+1880,1880,Ventura,California,Presidential General,Countywide,James A. Garfield,Republican,599,53.244,1125,Winner
+1880,1880,Ventura,California,Presidential General,Countywide,Winfield Scott Hancock,Democratic,522,46.4,1125,Candidate
+1880,1880,Ventura,California,Presidential General,Countywide,James B. Weaver,Greenback,4,0.356,1125,Candidate
+1884,1884,Ventura,California,Presidential General,Countywide,James G. Blaine,Republican,749,53.963,1388,Winner
+1884,1884,Ventura,California,Presidential General,Countywide,Grover Cleveland,Democratic,603,43.444,1388,Candidate
+1884,1884,Ventura,California,Presidential General,Countywide,John St. John,Prohibition,36,2.594,1388,Candidate
+1888,1888,Ventura,California,Presidential General,Countywide,Benjamin Harrison,Republican,1107,53.842,2056,Winner
+1888,1888,Ventura,California,Presidential General,Countywide,Grover Cleveland,Democratic,906,44.066,2056,Candidate
+1888,1888,Ventura,California,Presidential General,Countywide,Clinton B. Fisk,Prohibition,43,2.091,2056,Candidate
+1892,1892,Ventura,California,Presidential General,Countywide,Benjamin Harrison,Republican,1283,46.604,2753,Winner
+1892,1892,Ventura,California,Presidential General,Countywide,Grover Cleveland,Democratic,958,34.798,2753,Candidate
+1892,1892,Ventura,California,Presidential General,Countywide,James B. Weaver,Populist,512,18.598,2753,Candidate
+1896,1896,Ventura,California,Presidential General,Countywide,William McKinley,Republican,1553,50.406,3081,Winner
+1896,1896,Ventura,California,Presidential General,Countywide,William Jennings Bryan,Democratic,1465,47.549,3081,Candidate
+1896,1896,Ventura,California,Presidential General,Countywide,Joshua Levering,Prohibition,63,2.045,3081,Candidate
+1900,1900,Ventura,California,Presidential General,Countywide,William McKinley,Republican,1708,53.542,3190,Winner
+1900,1900,Ventura,California,Presidential General,Countywide,William Jennings Bryan,Democratic,1333,41.787,3190,Candidate
+1900,1900,Ventura,California,Presidential General,Countywide,John G. Woolley,Prohibition,149,4.671,3190,Candidate
+1904,1904,Ventura,California,Presidential General,Countywide,Theodore Roosevelt,Republican,1995,63.86,3124,Winner
+1904,1904,Ventura,California,Presidential General,Countywide,Alton B. Parker,Democratic,840,26.889,3124,Candidate
+1904,1904,Ventura,California,Presidential General,Countywide,Eugene V. Debs,Socialist,289,9.251,3124,Candidate
+1908,1908,Ventura,California,Presidential General,Countywide,William Howard Taft,Republican,1864,56.571,3295,Winner
+1908,1908,Ventura,California,Presidential General,Countywide,William Jennings Bryan,Democratic,1181,35.842,3295,Candidate
+1908,1908,Ventura,California,Presidential General,Countywide,Eugene V. Debs,Socialist,250,7.587,3295,Candidate
+1912,1912,Ventura,California,Presidential General,Countywide,Theodore Roosevelt,Progressive,2654,54.914,4833,Winner
+1912,1912,Ventura,California,Presidential General,Countywide,Woodrow Wilson,Democratic,2108,43.617,4833,Candidate
+1912,1912,Ventura,California,Presidential General,Countywide,William Howard Taft,Republican,71,1.469,4833,Candidate
+1916,1916,Ventura,California,Presidential General,Countywide,Charles Evans Hughes,Republican,3980,55.178,7213,Winner
+1916,1916,Ventura,California,Presidential General,Countywide,Woodrow Wilson,Democratic,2835,39.304,7213,Candidate
+1916,1916,Ventura,California,Presidential General,Countywide,Allan L. Benson,Socialist,398,5.518,7213,Candidate
+1920,1920,Ventura,California,Presidential General,Countywide,Warren G. Harding,Republican,5231,75.999,6883,Winner
+1920,1920,Ventura,California,Presidential General,Countywide,James M. Cox,Democratic,1305,18.96,6883,Candidate
+1920,1920,Ventura,California,Presidential General,Countywide,Eugene V. Debs,Socialist,347,5.041,6883,Candidate
+1924,1924,Ventura,California,Presidential General,Countywide,Calvin Coolidge,Republican,5705,65.163,8755,Winner
+1924,1924,Ventura,California,Presidential General,Countywide,Robert M. La Follette,Progressive,2139,24.432,8755,Candidate
+1924,1924,Ventura,California,Presidential General,Countywide,John W. Davis,Democratic,911,10.405,8755,Candidate
+1928,1928,Ventura,California,Presidential General,Countywide,Herbert Hoover,Republican,9017,70.166,12851,Winner
+1928,1928,Ventura,California,Presidential General,Countywide,Al Smith,Democratic,3717,28.924,12851,Candidate
+1928,1928,Ventura,California,Presidential General,Countywide,Norman Thomas,Socialist,117,0.91,12851,Candidate
+1932,1932,Ventura,California,Presidential General,Countywide,Franklin D. Roosevelt,Democratic,10903,58.824,18535,Winner
+1932,1932,Ventura,California,Presidential General,Countywide,Herbert Hoover,Republican,6908,37.27,18535,Candidate
+1932,1932,Ventura,California,Presidential General,Countywide,Norman Thomas,Socialist,724,3.906,18535,Candidate
+1936,1936,Ventura,California,Presidential General,Countywide,Franklin D. Roosevelt,Democratic,13384,63.138,21198,Winner
+1936,1936,Ventura,California,Presidential General,Countywide,Alf Landon,Republican,7579,35.753,21198,Candidate
+1936,1936,Ventura,California,Presidential General,Countywide,William Lemke,Union,235,1.109,21198,Candidate
+1940,1940,Ventura,California,Presidential General,Countywide,Franklin D. Roosevelt,Democratic,15182,57.002,26634,Winner
+1940,1940,Ventura,California,Presidential General,Countywide,Wendell Willkie,Republican,11225,42.145,26634,Candidate
+1940,1940,Ventura,California,Presidential General,Countywide,Norman Thomas,Socialist,227,0.852,26634,Candidate
+1944,1944,Ventura,California,Presidential General,Countywide,Franklin D. Roosevelt,Democratic,16342,59.331,27544,Winner
+1944,1944,Ventura,California,Presidential General,Countywide,Thomas E. Dewey,Republican,11071,40.194,27544,Candidate
+1944,1944,Ventura,California,Presidential General,Countywide,Norman Thomas,Socialist,131,0.476,27544,Candidate
+1948,1948,Ventura,California,Presidential General,Countywide,Harry S. Truman,Democratic,18100,54.767,33049,Winner
+1948,1948,Ventura,California,Presidential General,Countywide,Thomas E. Dewey,Republican,13930,42.15,33049,Candidate
+1948,1948,Ventura,California,Presidential General,Countywide,Other,Other,1019,3.083,33049,Candidate
+1952,1952,Ventura,California,Presidential General,Countywide,Dwight D. Eisenhower,Republican,24534,52.471,46757,Winner
+1952,1952,Ventura,California,Presidential General,Countywide,Adlai Stevenson,Democratic,21967,46.981,46757,Candidate
+1952,1952,Ventura,California,Presidential General,Countywide,Other,Other,256,0.548,46757,Candidate
+1956,1956,Ventura,California,Presidential General,Countywide,Dwight D. Eisenhower,Republican,26342,49.921,52767,Winner
+1956,1956,Ventura,California,Presidential General,Countywide,Adlai Stevenson,Democratic,26276,49.796,52767,Candidate
+1956,1956,Ventura,California,Presidential General,Countywide,Other,Other,149,0.282,52767,Candidate
+1960,1960,Ventura,California,Presidential General,Countywide,John F. Kennedy,Democratic,35334,49.961,70723,Winner
+1960,1960,Ventura,California,Presidential General,Countywide,Richard Nixon,Republican,35074,49.593,70723,Candidate
+1960,1960,Ventura,California,Presidential General,Countywide,Other,Other,315,0.445,70723,Candidate
+1962,1962,Ventura,California,Governor General,Countywide,Glenn M. Anderson,Democratic,37777,54.218,69676,Winner
+1962,1962,Ventura,California,Governor General,Countywide,Richard M. Nixon,Republican,31899,45.782,69676,Candidate
+1964,1964,Ventura,California,Presidential General,Countywide,Lyndon B. Johnson,Democratic,57805,58.842,98238,Winner
+1964,1964,Ventura,California,Presidential General,Countywide,Barry Goldwater,Republican,40264,40.986,98238,Candidate
+1964,1964,Ventura,California,Presidential General,Countywide,Other,Other,169,0.172,98238,Candidate
+1966,1966,Ventura,California,Governor General,Countywide,Ronald Reagan,Republican,58068,60.937,95292,Winner
+1966,1966,Ventura,California,Governor General,Countywide,Pat Brown,Democratic,37224,39.063,95292,Candidate
+1968,1968,Ventura,California,Presidential General,Countywide,Richard Nixon,Republican,59705,51.354,116261,Winner
+1968,1968,Ventura,California,Presidential General,Countywide,Hubert Humphrey,Democratic,47794,41.109,116261,Candidate
+1968,1968,Ventura,California,Presidential General,Countywide,Other,Other,8762,7.536,116261,Candidate
+1970,1970,Ventura,California,Governor General,Countywide,Ronald Reagan,Republican,63790,60.1,106140,Winner
+1970,1970,Ventura,California,Governor General,Countywide,Jesse M. Unruh,Democratic,42350,39.9,106140,Candidate
+1972,1972,Ventura,California,Presidential General,Countywide,Richard Nixon,Republican,95310,63.201,150805,Winner
+1972,1972,Ventura,California,Presidential General,Countywide,George McGovern,Democratic,49307,32.696,150805,Candidate
+1972,1972,Ventura,California,Presidential General,Countywide,Other,Other,6188,4.103,150805,Candidate
+1974,1974,Ventura,California,Governor General,Countywide,Houston I. Flournoy,Republican,60122,51.691,116311,Winner
+1974,1974,Ventura,California,Governor General,Countywide,Jerry Brown,Democratic,56189,48.309,116311,Candidate
+1976,1976,Ventura,California,Presidential General,Countywide,Gerald Ford,Republican,82670,53.198,155400,Winner
+1976,1976,Ventura,California,Presidential General,Countywide,Jimmy Carter,Democratic,68529,44.098,155400,Candidate
+1976,1976,Ventura,California,Presidential General,Countywide,Other,Other,4201,2.703,155400,Candidate
+1978,1978,Ventura,California,Governor General,Countywide,Jerry Brown,Democratic,75173,56.542,132950,Winner
+1978,1978,Ventura,California,Governor General,Countywide,Evelle J. Younger,Republican,57777,43.458,132950,Candidate
+1980,1980,Ventura,California,Presidential General,Countywide,Ronald Reagan,Republican,114930,60.283,190650,Winner
+1980,1980,Ventura,California,Presidential General,Countywide,Jimmy Carter,Democratic,56311,29.536,190650,Candidate
+1980,1980,Ventura,California,Presidential General,Countywide,Other,Other,19409,10.18,190650,Candidate
+1982,1982,Ventura,California,Governor General,Countywide,George Deukmejian,Republican,99130,56.573,175224,Winner
+1982,1982,Ventura,California,Governor General,Countywide,Tom Bradley,Democratic,76094,43.427,175224,Candidate
+1984,1984,Ventura,California,Presidential General,Countywide,Ronald Reagan,Republican,151383,68.666,220462,Winner
+1984,1984,Ventura,California,Presidential General,Countywide,Walter Mondale,Democratic,66550,30.187,220462,Candidate
+1984,1984,Ventura,California,Presidential General,Countywide,Other,Other,2529,1.147,220462,Candidate
+1986,1986,Ventura,California,Governor General,Countywide,George Deukmejian,Republican,118640,68.367,173533,Winner
+1986,1986,Ventura,California,Governor General,Countywide,Tom Bradley,Democratic,54893,31.633,173533,Candidate
+1988,1988,Ventura,California,Presidential General,Countywide,George H. W. Bush,Republican,147604,61.637,239473,Winner
+1988,1988,Ventura,California,Presidential General,Countywide,Michael Dukakis,Democratic,89065,37.192,239473,Candidate
+1988,1988,Ventura,California,Presidential General,Countywide,Other,Other,2804,1.171,239473,Candidate
+1990,1990,Ventura,California,Governor General,Countywide,Pete Wilson,Republican,106234,60.923,174373,Winner
+1990,1990,Ventura,California,Governor General,Countywide,Dianne Feinstein,Democratic,68139,39.077,174373,Candidate
+1992,1992,Ventura,California,Presidential General,Countywide,Bill Clinton,Democratic,99011,36.993,267647,Winner
+1992,1992,Ventura,California,Presidential General,Countywide,George H. W. Bush,Republican,94911,35.461,267647,Candidate
+1992,1992,Ventura,California,Presidential General,Countywide,Other,Other,73725,27.546,267647,Candidate
+1994,1994,Ventura,California,Governor General,Countywide,Pete Wilson,Republican,136417,65.091,209580,Winner
+1994,1994,Ventura,California,Governor General,Countywide,Kathleen Brown,Democratic,73163,34.909,209580,Candidate
+1996,1996,Ventura,California,Presidential General,Countywide,Bill Clinton,Democratic,110772,44.098,251194,Winner
+1996,1996,Ventura,California,Presidential General,Countywide,Bob Dole,Republican,109202,43.473,251194,Candidate
+1996,1996,Ventura,California,Presidential General,Countywide,Other,Other,31220,12.429,251194,Candidate
+1998,1998,Ventura,California,Governor General,Countywide,Gray Davis,Democratic,110226,54.752,201319,Winner
+1998,1998,Ventura,California,Governor General,Countywide,Dan Lungren,Republican,91093,45.248,201319,Candidate
+2000,2000,Ventura,California,Presidential General,Countywide,George W. Bush,Republican,136173,48.17,282692,Winner
+2000,2000,Ventura,California,Presidential General,Countywide,Al Gore,Democratic,133258,47.139,282692,Candidate
+2000,2000,Ventura,California,Presidential General,Countywide,Other,Other,13261,4.691,282692,Candidate
+2002,2002,Ventura,California,Governor General,Countywide,Bill Simon,Republican,91193,52.185,174750,Winner
+2002,2002,Ventura,California,Governor General,Countywide,Gray Davis,Democratic,83557,47.815,174750,Candidate
+2004,2004,Ventura,California,Presidential General,Countywide,George W. Bush,Republican,160314,51.187,313193,Winner
+2004,2004,Ventura,California,Presidential General,Countywide,John Kerry,Democratic,148859,47.529,313193,Candidate
+2004,2004,Ventura,California,Presidential General,Countywide,Other,Other,4020,1.284,313193,Candidate
+2006,2006,Ventura,California,Governor General,Countywide,Arnold Schwarzenegger,Republican,134862,64.021,210652,Winner
+2006,2006,Ventura,California,Governor General,Countywide,Phil Angelides,Democratic,75790,35.979,210652,Candidate
+2008,2008,Ventura,California,Presidential General,Countywide,Barack Obama,Democratic,187601,55.008,341041,Winner
+2008,2008,Ventura,California,Presidential General,Countywide,John McCain,Republican,145853,42.767,341041,Candidate
+2008,2008,Ventura,California,Presidential General,Countywide,Other,Other,7587,2.225,341041,Candidate
+2010,2010,Ventura,California,Governor General,Countywide,Meg Whitman,Republican,128082,52.091,245882,Winner
+2010,2010,Ventura,California,Governor General,Countywide,Jerry Brown,Democratic,117800,47.909,245882,Candidate
+2012,2012,Ventura,California,Presidential General,Countywide,Barack Obama,Democratic,170929,52.158,327712,Winner
+2012,2012,Ventura,California,Presidential General,Countywide,Mitt Romney,Republican,147958,45.149,327712,Candidate
+2012,2012,Ventura,California,Presidential General,Countywide,Other,Other,8825,2.693,327712,Candidate
+2014,2014,Ventura,California,Governor General,Countywide,Jerry Brown,Democratic,106072,53.071,199869,Winner
+2014,2014,Ventura,California,Governor General,Countywide,Neel Kashkari,Republican,93797,46.929,199869,Candidate
+2016,2016,Ventura,California,Presidential General,Countywide,Hillary Clinton,Democratic,194402,54.591,356107,Winner
+2016,2016,Ventura,California,Presidential General,Countywide,Donald Trump,Republican,132323,37.158,356107,Candidate
+2016,2016,Ventura,California,Presidential General,Countywide,Other,Other,29382,8.251,356107,Candidate
+2018,2018,Ventura,California,Governor General,Countywide,Gavin Newsom,Democratic,171729,55.554,309122,Winner
+2018,2018,Ventura,California,Governor General,Countywide,John H. Cox,Republican,137393,44.446,309122,Candidate
+2020,11/3/2020,Ventura,California,Bell Canyon CSD Director,Full,Eric Wolf,Nonpartisan,662,27.78,2383,Elected
+2020,11/3/2020,Ventura,California,Bell Canyon CSD Director,Full,Richard Levy,Nonpartisan,617,25.892,2383,Elected
+2020,11/3/2020,Ventura,California,Bell Canyon CSD Director,Full,Dennis Roy,Nonpartisan,561,23.542,2383,Elected
+2020,11/3/2020,Ventura,California,Bell Canyon CSD Director,Full,Yossi Kviatkovsky,Nonpartisan,543,22.786,2383,Candidate
+2020,11/3/2020,Ventura,California,County Supervisor,5,Carmen Ramirez,Nonpartisan,30734,56.406,54487,Elected
+2020,11/3/2020,Ventura,California,County Supervisor,5,Tim Flynn,Nonpartisan,23753,43.594,54487,Candidate
+2020,11/3/2020,Ventura,California,Oak Park MAC Member,Full,Jane M. Nye,Nonpartisan,4155,37.595,11052,Elected
+2020,11/3/2020,Ventura,California,Oak Park MAC Member,Full,Seema Chandra,Nonpartisan,3672,33.225,11052,Elected
+2020,11/3/2020,Ventura,California,Oak Park MAC Member,Full,Maria Soosai,Nonpartisan,3225,29.18,11052,Candidate
+2020,11/3/2020,Ventura,California,Santa Rosa Valley MAC Member,Full,Rosemary Allison,Nonpartisan,1484,38.12,3893,Elected
+2020,11/3/2020,Ventura,California,Santa Rosa Valley MAC Member,Full,Kevin Cannon,Nonpartisan,896,23.016,3893,Elected
+2020,11/3/2020,Ventura,California,Santa Rosa Valley MAC Member,Full,Michael Adams,Nonpartisan,826,21.218,3893,Elected
+2020,11/3/2020,Ventura,California,Santa Rosa Valley MAC Member,Full,Mark H. Roddy,Nonpartisan,687,17.647,3893,Candidate
+2020,11/3/2020,Ventura,California,Superior Judge,2,Catherine M. Voelker,Nonpartisan,151030,75.965,198816,Elected
+2020,11/3/2020,Ventura,California,Superior Judge,2,G. Martin Zaehringer,Nonpartisan,47786,24.035,198816,Candidate
+2020,11/3/2020,Ventura,California,Superior Judge,8,Paul W. Baelly,Nonpartisan,141503,72.875,194172,Elected
+2020,11/3/2020,Ventura,California,Superior Judge,8,Steve Pell,Nonpartisan,52669,27.125,194172,Candidate
+2020,2020,Ventura,California,Presidential General,Countywide,Joe Biden,Democratic,251388,59.454,422825,Winner
+2020,2020,Ventura,California,Presidential General,Countywide,Donald Trump,Republican,162207,38.363,422825,Candidate
+2020,2020,Ventura,California,Presidential General,Countywide,Other,Other,9230,2.183,422825,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,1,Matt Lavere,Nonpartisan,29602,59.806,49497,Elected
+2020,3/3/2020,Ventura,California,County Supervisor,1,Jeff Ketelsen,Nonpartisan,8115,16.395,49497,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,3,Kelly Long,Nonpartisan,23464,55.738,42097,Elected
+2020,3/3/2020,Ventura,California,County Supervisor,3,Kim Marra Stephenson,Nonpartisan,18633,44.262,42097,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,5,Tim Flynn,Nonpartisan,7475,29.205,25595,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,5,Carmen Ramirez,Nonpartisan,7137,27.884,25595,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,5,Veronica Robles-Solis,Nonpartisan,4257,16.632,25595,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,5,Jess Herrera,Nonpartisan,3792,14.815,25595,Candidate
+2020,3/3/2020,Ventura,California,County Supervisor,5,Jeffrey D. Burum,Nonpartisan,2934,11.463,25595,Candidate
+2022,2022,Ventura,California,Governor General,Countywide,Gavin Newsom,Democratic,153226,54.541,280935,Winner
+2022,2022,Ventura,California,Governor General,Countywide,Brian Dahle,Republican,127709,45.459,280935,Candidate
+2024,11/5/2024,Ventura,California,Oak Park MAC Member,Full,Brianna Adams,Nonpartisan,4416,51.71,8540,Elected
+2024,11/5/2024,Ventura,California,Oak Park MAC Member,Full,Jane M. Nye,Nonpartisan,2488,29.133,8540,Elected
+2024,11/5/2024,Ventura,California,Oak Park MAC Member,Full,Harmeeth Nijjar,Nonpartisan,1636,19.157,8540,Candidate
+2024,11/5/2024,Ventura,California,Santa Rosa MAC Member,Full,Rosemary Allison,Nonpartisan,1355,38.462,3523,Elected
+2024,11/5/2024,Ventura,California,Santa Rosa MAC Member,Full,Debra Spafford,Nonpartisan,791,22.452,3523,Elected
+2024,11/5/2024,Ventura,California,Santa Rosa MAC Member,Full,Michael Adams,Nonpartisan,681,19.33,3523,Elected
+2024,11/5/2024,Ventura,California,Santa Rosa MAC Member,Full,Matthew Benson,Nonpartisan,364,10.332,3523,Candidate
+2024,11/5/2024,Ventura,California,Santa Rosa MAC Member,Full,Dan Goldberg,Nonpartisan,332,9.424,3523,Candidate
+2024,2024,Ventura,California,Presidential General,Countywide,Kamala Harris,Democratic,217424,56.096,387595,Winner
+2024,2024,Ventura,California,Presidential General,Countywide,Donald Trump,Republican,158901,40.997,387595,Candidate
+2024,2024,Ventura,California,Presidential General,Countywide,Robert F. Kennedy Jr.,American Independent,5000,1.29,387595,Candidate
+2024,2024,Ventura,California,Presidential General,Countywide,Jill Stein,Green,3025,0.78,387595,Candidate
+2024,2024,Ventura,California,Presidential General,Countywide,Chase Oliver,Libertarian,1745,0.45,387595,Candidate
+2024,2024,Ventura,California,Presidential General,Countywide,Claudia De la Cruz,Peace and Freedom,1500,0.387,387595,Candidate
+2024,3/5/2024,Ventura,California,County Supervisor,1,Matt Lavere,Nonpartisan,29073,75.883,38313,Elected
+2024,3/5/2024,Ventura,California,County Supervisor,1,Philip Fields,Nonpartisan,6046,15.781,38313,Candidate
+2024,3/5/2024,Ventura,California,County Supervisor,1,Jeff Ketelsen,Nonpartisan,3194,8.337,38313,Candidate
+2024,3/5/2024,Ventura,California,County Supervisor,3,Kelly Long,Nonpartisan,17388,61.798,28137,Elected
+2024,3/5/2024,Ventura,California,County Supervisor,3,Kim Marra Stephenson,Nonpartisan,9503,33.774,28137,Candidate
+2024,3/5/2024,Ventura,California,County Supervisor,3,Heather Schmidt,Nonpartisan,1246,4.428,28137,Candidate
+2024,3/5/2024,Ventura,California,County Supervisor,5,Vianey Lopez,Nonpartisan,12649,100.0,12649,Elected
+2024,3/5/2024,Ventura,California,Superior Judge,4,Julia Snyder,Nonpartisan,80296,50.335,159522,Elected
+2024,3/5/2024,Ventura,California,Superior Judge,4,Edward 'Ted' Andrews,Nonpartisan,55255,34.638,159522,Candidate
+2024,3/5/2024,Ventura,California,Superior Judge,4,John McBride,Nonpartisan,18183,11.398,159522,Candidate
+2024,3/5/2024,Ventura,California,Superior Judge,4,Mike Malak,Nonpartisan,5788,3.628,159522,Candidate
+2026,6/2/2026,Ventura,California,Assembly,38,Steve Bennett,Democratic,56992,69.419,82098,Top finisher
+2026,6/2/2026,Ventura,California,Assembly,38,Michael Macdonald,Democratic,25106,30.581,82098,Candidate
+2026,6/2/2026,Ventura,California,Assembly,42,Deborah Klein Lopez,Democratic,57010,51.316,111095,Top finisher
+2026,6/2/2026,Ventura,California,Assembly,42,Ted Nordblum,Republican,28633,25.773,111095,Candidate
+2026,6/2/2026,Ventura,California,Assembly,42,Rocky Rhodes,Republican,25452,22.91,111095,Candidate
+2026,6/2/2026,Ventura,California,Assembly,46,Tracey Schroeder,Republican,313,51.565,607,Top finisher
+2026,6/2/2026,Ventura,California,Assembly,46,Jesse Gabriel,Democratic,294,48.435,607,Candidate
+2026,6/2/2026,Ventura,California,Assessor,,Keith Taylor,Nonpartisan,161576,100.0,161576,Top finisher
+2026,6/2/2026,Ventura,California,Attorney General,,Rob Bonta,Democratic,117490,53.427,219906,Top finisher
+2026,6/2/2026,Ventura,California,Attorney General,,Michael E. Gates,Republican,92577,42.098,219906,Candidate
+2026,6/2/2026,Ventura,California,Attorney General,,Marjorie Mikels,Green,9839,4.474,219906,Candidate
+2026,6/2/2026,Ventura,California,Auditor-Controller,,Michelle K. Yamaguchi,Nonpartisan,159557,100.0,159557,Top finisher
+2026,6/2/2026,Ventura,California,BOE District 2,,Sally J. Lieber,Democratic,102477,48.927,209449,Top finisher
+2026,6/2/2026,Ventura,California,BOE District 2,,J Brett Marymee,Republican,30355,14.493,209449,Candidate
+2026,6/2/2026,Ventura,California,BOE District 2,,Bill Shireman,Republican,26784,12.788,209449,Candidate
+2026,6/2/2026,Ventura,California,BOE District 2,,John Pimentel,Democratic,20150,9.62,209449,Candidate
+2026,6/2/2026,Ventura,California,BOE District 2,,John W. Zaruka,Republican,17014,8.123,209449,Candidate
+2026,6/2/2026,Ventura,California,BOE District 2,,Mark Mccomas,Republican,12669,6.049,209449,Candidate
+2026,6/2/2026,Ventura,California,Controller,,Malia M. Cohen,Democratic,117136,54.775,213848,Top finisher
+2026,6/2/2026,Ventura,California,Controller,,Herb W Morgan,Republican,88373,41.325,213848,Candidate
+2026,6/2/2026,Ventura,California,Controller,,Meghann Adams,NPP,8339,3.899,213848,Candidate
+2026,6/2/2026,Ventura,California,County Clerk and Recorder,,Michelle Ascencion,Nonpartisan,139700,72.223,193428,Top finisher
+2026,6/2/2026,Ventura,California,County Clerk and Recorder,,Paul Harold Johnson,Nonpartisan,53728,27.777,193428,Candidate
+2026,6/2/2026,Ventura,California,County Superintendent of Schools,,Karen Sher,Nonpartisan,80352,41.74,192507,Top finisher
+2026,6/2/2026,Ventura,California,County Superintendent of Schools,,Maggie Marschner,Nonpartisan,63463,32.967,192507,Candidate
+2026,6/2/2026,Ventura,California,County Superintendent of Schools,,Cesar Morales,Nonpartisan,48692,25.294,192507,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Steve Hilton,Republican,69766,30.302,230234,Top finisher
+2026,6/2/2026,Ventura,California,Governor,,Xavier Becerra,Democratic,64538,28.031,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Tom Steyer,Democratic,48858,21.221,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Chad Bianco,Republican,20902,9.079,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Katie Porter,Democratic,8800,3.822,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Matt Mahan,Democratic,5682,2.468,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Antonio Villaraigosa,Democratic,2702,1.174,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Ramsey Robinson,NPP,1243,0.54,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Tony K. Thurmond,Democratic,1198,0.52,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Eric Swalwell,Democratic,1010,0.439,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Tim Nelson,Republican,608,0.264,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Betty T. Yee,Democratic,510,0.222,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Butch Ware,Other,415,0.18,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Barack D. Obama Shaw,Democratic,296,0.129,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Gretha Solórzano,Republican,253,0.11,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Leo Naranjo IV,Republican,246,0.107,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Randeep S. Dhillon,Republican,218,0.095,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Carolina Buhler,Democratic,174,0.076,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Tom Woodard,Libertarian,159,0.069,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Joseph Cabrera,NPP,149,0.065,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Leo Samuel Zacky,Republican,148,0.064,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Matthew Chase Levy,Democratic,137,0.06,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Christine R. Sarmiento,NPP,137,0.06,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Jon Henderson,NPP,134,0.058,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,James Athans Jr.,Republican,127,0.055,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Scott P Shields,Democratic,118,0.051,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Frederic C. Schultz,NPP,112,0.049,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Mohammad Arif,Democratic,111,0.048,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Erin 'Zez' Zezulak,Democratic,103,0.045,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Louis A. De Barraicua,Democratic,100,0.043,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Lewis Herms,NPP,91,0.04,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Rafael M. Hernandez,Republican,88,0.038,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Satish Rao,Democratic,87,0.038,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Elaine Culotti,NPP,75,0.033,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Daniel Mercuri,NPP,68,0.03,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Naomi Bar Lev,NPP,61,0.026,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Nancy D. Young,NPP,57,0.025,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Amanda Martin,NPP,56,0.024,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Derek Grasty,Democratic,53,0.023,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Raji Rab,Democratic,52,0.023,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Sophia Edum A Sam,Democratic,48,0.021,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Che Ahn,Other,47,0.02,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Livingforgod Andcountry Demott,NPP,44,0.019,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Alicia Olivia Lapp,Republican,42,0.018,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Mauro Alberto Orozco,NPP,42,0.018,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Larry Azevedo,Democratic,41,0.018,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Serge Fiankan,NPP,39,0.017,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Brent Maupin,NPP,31,0.013,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Patricia De Luca Basualdo,Republican,31,0.013,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Akinyemi Agbede,Democratic,31,0.013,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Thunder Parley,Democratic,29,0.013,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Duane Terrence Loynes Jr.,NPP,27,0.012,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Reza Safarnejad,NPP,25,0.011,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Don J. Grundmann,NPP,23,0.01,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Joel E. Jacob,Democratic,19,0.008,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Sam Sandak,NPP,15,0.007,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Dawit Kellel,NPP,13,0.006,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Gary Howard Kidgell,Democratic,12,0.005,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Lukasz Adam Filinski,NPP,11,0.005,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Anne Komarovsk,NPP,11,0.005,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Max Fomin,NPP,10,0.004,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Kalid Meky,Other,1,0.0,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Jibri J Peavy,Other,0,0.0,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Michael J Dilger,Other,0,0.0,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Sean Forbes,Other,0,0.0,230234,Candidate
+2026,6/2/2026,Ventura,California,Governor,,Dirk Langer,Other,0,0.0,230234,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Jane Kim,Democratic,54465,25.819,210946,Top finisher
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Ben Allen,Democratic,40280,19.095,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Stacy A. Korsgaden,Republican,37468,17.762,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Merritt Farren,Republican,19237,9.119,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Robert P Howell,Republican,16542,7.842,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Patrick Wolff,Democratic,11137,5.28,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Steven Craig Bradford,Democratic,10851,5.144,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Sean Lee,Republican,10357,4.91,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Eduardo 'Lalo' Vargas,NPP,5239,2.484,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Eric Thor Aarnio,Republican,3500,1.659,210946,Candidate
+2026,6/2/2026,Ventura,California,Insurance Commissioner,,Keith W. Davis,NPP,1870,0.886,210946,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Gloria Romero,Republican,50057,23.358,214304,Top finisher
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Fiona Ma,Democratic,37010,17.27,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Josh Fryday,Democratic,32959,15.38,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Michael Tubbs,Democratic,24843,11.592,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,David Fennell,Republican,14912,6.958,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,David Collenberg,Republican,11686,5.453,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Oliver Ma,Democratic,9393,4.383,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Janelle Kellman,Democratic,9058,4.227,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Skip Shelton,Republican,9008,4.203,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Jeyson Lopez,Democratic,4597,2.145,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Tim Myers,Democratic,3470,1.619,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Alice Stek,NPP,3088,1.441,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Ebie Lynch,Republican,2358,1.1,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Sean Collinson,NPP,876,0.409,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Abdur Rahman Sikder,Democratic,737,0.344,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Rakesh Christian,NPP,251,0.117,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,Mushtaq Mt Tahirkheli,Other,1,0.0,214304,Candidate
+2026,6/2/2026,Ventura,California,Lieutenant Governor,,James P. Cameron,Other,0,0.0,214304,Candidate
+2026,6/2/2026,Ventura,California,Secretary of State,,Shirley N. Weber,Democratic,119877,55.748,215033,Top finisher
+2026,6/2/2026,Ventura,California,Secretary of State,,Donald P. (Don) Wagner,Republican,87441,40.664,215033,Candidate
+2026,6/2/2026,Ventura,California,Secretary of State,,Michael Feinstein,Green,3983,1.852,215033,Candidate
+2026,6/2/2026,Ventura,California,Secretary of State,,Gary N. Blenner,Green,3732,1.736,215033,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Sonja Shaw,Other,49742,26.159,190156,Top finisher
+2026,6/2/2026,Ventura,California,State Superintendent,,Richard Barrera,Other,38218,20.098,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Wendy Castaneda Leal,Other,23920,12.579,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Al Muratsuchi,Other,15585,8.196,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Nichelle M. Henderson,Other,14208,7.472,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Frank Lara,Other,11620,6.111,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Anthony Rendon,Other,11359,5.974,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Josh Newman,Other,11242,5.912,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Ainye Long,Other,10068,5.295,190156,Candidate
+2026,6/2/2026,Ventura,California,State Superintendent,,Gus Mattammal,Other,4194,2.206,190156,Candidate
+2026,6/2/2026,Ventura,California,Superior Judge,15,Amy E. Van Sickle,Nonpartisan,138960,72.157,192579,Top finisher
+2026,6/2/2026,Ventura,California,Superior Judge,15,Mike Malak,Nonpartisan,53619,27.843,192579,Candidate
+2026,6/2/2026,Ventura,California,Supervisor,2,Jeff Gorell,Nonpartisan,31150,52.588,59234,Top finisher
+2026,6/2/2026,Ventura,California,Supervisor,2,Ashley Orozco,Nonpartisan,23849,40.262,59234,Candidate
+2026,6/2/2026,Ventura,California,Supervisor,2,Mark Perryman,Nonpartisan,4235,7.15,59234,Candidate
+2026,6/2/2026,Ventura,California,Supervisor,4,Janice S. Parvin,Nonpartisan,32386,68.67,47162,Top finisher
+2026,6/2/2026,Ventura,California,Supervisor,4,Ruth Luevanos,Nonpartisan,14776,31.33,47162,Candidate
+2026,6/2/2026,Ventura,California,Treasurer,,Eleni Kounalakis,Democratic,69660,32.67,213226,Top finisher
+2026,6/2/2026,Ventura,California,Treasurer,,Jennifer Hawks,Republican,60246,28.255,213226,Candidate
+2026,6/2/2026,Ventura,California,Treasurer,,Anna M. Caballero,Democratic,36325,17.036,213226,Candidate
+2026,6/2/2026,Ventura,California,Treasurer,,David Serpa,Republican,27184,12.749,213226,Candidate
+2026,6/2/2026,Ventura,California,Treasurer,,Tony Vazquez,Democratic,15855,7.436,213226,Candidate
+2026,6/2/2026,Ventura,California,Treasurer,,Glenn Turner,Green,3956,1.855,213226,Candidate
+2026,6/2/2026,Ventura,California,Treasurer-Tax Collector,,Marilou Tan,Nonpartisan,133624,72.499,184311,Top finisher
+2026,6/2/2026,Ventura,California,Treasurer-Tax Collector,,Derek Fouarge,Nonpartisan,50687,27.501,184311,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,24,Salud Carbajal,Democratic,22537,54.289,41513,Top finisher
+2026,6/2/2026,Ventura,California,U.S. Representative,24,Bob Smith,Republican,14239,34.3,41513,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,24,Sarah Bacon,Democratic,3485,8.395,41513,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,24,Helena Pasquarella,NPP,1252,3.016,41513,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Jacqui Irwin,Democratic,60613,43.212,140268,Top finisher
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Sam Gallucci,Republican,29783,21.233,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Chris Espinosa,Democratic,14931,10.645,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,William 'Bill' Scott,Republican,11407,8.132,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Michael S. Koslow,Republican,11125,7.931,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Sonia Kacker,Democratic,5570,3.971,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Liam Andres O'neill Hernandez,Democratic,2758,1.966,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Sasan Samadzadeh,Democratic,2138,1.524,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,26,Daniel Miller,Republican,1943,1.385,140268,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Larry Thompson,Republican,19175,49.634,38633,Top finisher
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Brad Sherman,Democratic,10004,25.895,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Jake Levine,Democratic,4243,10.983,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Marena Lin,Democratic,2188,5.664,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Anna Wilding,Democratic,1482,3.836,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Chris Ahuja,Democratic,748,1.936,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Doug Smith,NPP,274,0.709,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Josh Sautter,Democratic,260,0.673,38633,Candidate
+2026,6/2/2026,Ventura,California,U.S. Representative,32,Dory Benami,Democratic,259,0.67,38633,Candidate

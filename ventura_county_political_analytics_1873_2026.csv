@@ -1,0 +1,155 @@
+year,county,state,political_era,county_established,presidential_election,pres_rep_votes,pres_dem_votes,pres_other_votes,pres_total_votes,pres_rep_share_pct,pres_dem_share_pct,pres_two_party_margin_pp,pres_winner,pres_swing_from_prior_election_pp,presidential_party_direction,presidential_competitiveness_band,gubernatorial_election,gov_rep_votes,gov_dem_votes,gov_two_party_margin_pp,gov_winner,registration_total,registration_democratic,registration_republican,registration_american_independent,registration_green,registration_democratic_share_pct,registration_republican_share_pct,registration_american_independent_share_pct,registration_green_share_pct,notes,source_note
+1873,Ventura,California,Founding / 19th century,1,0,,,,,,,,,,,,0,,,,,,,,,,,,,,"Ventura County established January 1, 1873.",
+1874,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,No presidential election in this year.,
+1875,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,No presidential election in this year.,
+1876,Ventura,California,Founding / 19th century,0,1,608.0,591.0,0.0,1199.0,50.709,49.291,-1.418,Republican,,Republican,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1877,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1878,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1879,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1880,Ventura,California,Founding / 19th century,0,1,599.0,522.0,4.0,1125.0,53.244,46.4,-6.844,Republican,-5.427,Republican,competitive (5–10 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1881,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1882,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1883,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1884,Ventura,California,Founding / 19th century,0,1,749.0,603.0,36.0,1388.0,53.963,43.444,-10.519,Republican,-3.674,Republican,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1885,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1886,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1887,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1888,Ventura,California,Founding / 19th century,0,1,1107.0,906.0,43.0,2056.0,53.842,44.066,-9.776,Republican,0.742,Republican,competitive (5–10 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1889,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1890,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1891,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1892,Ventura,California,Founding / 19th century,0,1,1283.0,958.0,512.0,2753.0,46.604,34.798,-11.805,Republican,-2.029,Republican,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1893,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1894,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1895,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1896,Ventura,California,Founding / 19th century,0,1,1553.0,1465.0,63.0,3081.0,50.406,47.549,-2.856,Republican,8.949,Republican,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1897,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1898,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1899,Ventura,California,Founding / 19th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1900,Ventura,California,Progressive / early 20th century,0,1,1708.0,1333.0,149.0,3190.0,53.542,41.787,-11.755,Republican,-8.899,Republican,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1901,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1902,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1903,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1904,Ventura,California,Progressive / early 20th century,0,1,1995.0,840.0,289.0,3124.0,63.86,26.889,-36.972,Republican,-25.216,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1905,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1906,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1907,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1908,Ventura,California,Progressive / early 20th century,0,1,1864.0,1181.0,250.0,3295.0,56.571,35.842,-20.728,Republican,16.243,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1909,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1910,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1911,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1912,Ventura,California,Progressive / early 20th century,0,1,71.0,2108.0,2654.0,4833.0,1.469,43.617,42.148,Democratic,62.876,Democratic,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1913,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1914,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1915,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1916,Ventura,California,Progressive / early 20th century,0,1,3980.0,2835.0,398.0,7213.0,55.178,39.304,-15.874,Republican,-58.022,Republican,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1917,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1918,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1919,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1920,Ventura,California,Progressive / early 20th century,0,1,5231.0,1305.0,347.0,6883.0,75.999,18.96,-57.039,Republican,-41.165,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1921,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1922,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1923,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1924,Ventura,California,Progressive / early 20th century,0,1,5705.0,911.0,2139.0,8755.0,65.163,10.405,-54.757,Republican,2.282,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1925,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1926,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1927,Ventura,California,Progressive / early 20th century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1928,Ventura,California,Progressive / early 20th century,0,1,9017.0,3717.0,117.0,12851.0,70.166,28.924,-41.242,Republican,13.515,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1929,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1930,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1931,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1932,Ventura,California,New Deal / WWII,0,1,6908.0,10903.0,724.0,18535.0,37.27,58.824,21.554,Democratic,62.796,Democratic,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1933,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1934,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1935,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1936,Ventura,California,New Deal / WWII,0,1,7579.0,13384.0,235.0,21198.0,35.753,63.138,27.385,Democratic,5.831,Democratic,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1937,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1938,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1939,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1940,Ventura,California,New Deal / WWII,0,1,11225.0,15182.0,227.0,26634.0,42.145,57.002,14.857,Democratic,-12.528,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1941,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1942,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1943,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1944,Ventura,California,New Deal / WWII,0,1,11071.0,16342.0,131.0,27544.0,40.194,59.331,19.137,Democratic,4.28,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1945,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1946,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1947,Ventura,California,New Deal / WWII,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1948,Ventura,California,New Deal / WWII,0,1,13930.0,18100.0,1019.0,33049.0,42.15,54.767,12.618,Democratic,-6.519,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1949,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1950,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1951,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1952,Ventura,California,Postwar,0,1,24534.0,21967.0,256.0,46757.0,52.471,46.981,-5.49,Republican,-18.108,Republican,competitive (5–10 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1953,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1954,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1955,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1956,Ventura,California,Postwar,0,1,26342.0,26276.0,149.0,52767.0,49.921,49.796,-0.125,Republican,5.365,Republican,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1957,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1958,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1959,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1960,Ventura,California,Postwar,0,1,35074.0,35334.0,315.0,70723.0,49.593,49.961,0.368,Democratic,0.493,Democratic,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1961,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1962,Ventura,California,Postwar,0,0,,,,,,,,,,,,1,31899.0,37777.0,8.436,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+1963,Ventura,California,Postwar,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1964,Ventura,California,Postwar,0,1,40264.0,57805.0,169.0,98238.0,40.986,58.842,17.856,Democratic,17.488,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1965,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1966,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,58068.0,37224.0,-21.874,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1967,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1968,Ventura,California,Modern conservative era,0,1,59705.0,47794.0,8762.0,116261.0,51.354,41.109,-10.245,Republican,-28.101,Republican,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1969,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1970,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,63790.0,42350.0,-20.2,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1971,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1972,Ventura,California,Modern conservative era,0,1,95310.0,49307.0,6188.0,150805.0,63.201,32.696,-30.505,Republican,-20.26,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1973,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1974,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,60122.0,56189.0,-3.381,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1975,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1976,Ventura,California,Modern conservative era,0,1,82670.0,68529.0,4201.0,155400.0,53.198,44.098,-9.1,Republican,21.405,Republican,competitive (5–10 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1977,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1978,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,57777.0,75173.0,13.085,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+1979,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1980,Ventura,California,Modern conservative era,0,1,114930.0,56311.0,19409.0,190650.0,60.283,29.536,-30.747,Republican,-21.647,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1981,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1982,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,99130.0,76094.0,-13.147,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1983,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1984,Ventura,California,Modern conservative era,0,1,151383.0,66550.0,2529.0,220462.0,68.666,30.187,-38.48,Republican,-7.733,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1985,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1986,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,1,118640.0,54893.0,-36.735,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1987,Ventura,California,Modern conservative era,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1988,Ventura,California,Modern conservative era,0,1,147604.0,89065.0,2804.0,239473.0,61.637,37.192,-24.445,Republican,14.035,Republican,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1989,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1990,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,1,106234.0,68139.0,-21.847,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1991,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1992,Ventura,California,Late 20th / early 21st century,0,1,94911.0,99011.0,73725.0,267647.0,35.461,36.993,1.532,Democratic,25.977,Democratic,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1993,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1994,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,1,136417.0,73163.0,-30.181,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+1995,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1996,Ventura,California,Late 20th / early 21st century,0,1,109202.0,110772.0,31220.0,251194.0,43.473,44.098,0.625,Democratic,-0.907,Democratic,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+1997,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+1998,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,1,91093.0,110226.0,9.504,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+1999,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2000,Ventura,California,Late 20th / early 21st century,0,1,136173.0,133258.0,13261.0,282692.0,48.17,47.139,-1.031,Republican,-1.656,Republican,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2001,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2002,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,1,91193.0,83557.0,-4.37,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+2003,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2004,Ventura,California,Late 20th / early 21st century,0,1,160314.0,148859.0,4020.0,313193.0,51.187,47.529,-3.657,Republican,-2.626,Republican,toss-up (<5 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2005,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2006,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,1,134862.0,75790.0,-28.042,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+2007,Ventura,California,Late 20th / early 21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2008,Ventura,California,Late 20th / early 21st century,0,1,145853.0,187601.0,7587.0,341041.0,42.767,55.008,12.241,Democratic,15.899,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2009,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2010,Ventura,California,21st century,0,0,,,,,,,,,,,,1,128082.0,117800.0,-4.182,Republican,,,,,,,,,,,Ventura County gubernatorial results table.
+2011,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2012,Ventura,California,21st century,0,1,147958.0,170929.0,8825.0,327712.0,45.149,52.158,7.01,Democratic,-5.232,Democratic,competitive (5–10 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2013,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2014,Ventura,California,21st century,0,0,,,,,,,,,,,,1,93797.0,106072.0,6.142,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+2015,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2016,Ventura,California,21st century,0,1,132323.0,194402.0,29382.0,356107.0,37.158,54.591,17.433,Democratic,10.423,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2017,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2018,Ventura,California,21st century,0,0,,,,,,,,,,,,1,137393.0,171729.0,11.108,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+2019,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2020,Ventura,California,21st century,0,1,162207.0,251388.0,9230.0,422825.0,38.363,59.454,21.092,Democratic,3.659,Democratic,strong (>20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2021,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2022,Ventura,California,21st century,0,0,,,,,,,,,,,,1,127709.0,153226.0,9.083,Democratic,,,,,,,,,,,Ventura County gubernatorial results table.
+2023,Ventura,California,21st century,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2024,Ventura,California,21st century,0,1,158901.0,217424.0,11379.0,387704.0,40.985,56.08,15.095,Democratic,-5.997,Democratic,lean (10–20 pp),0,,,,,,,,,,,,,,,Wikimedia Commons Ventura County presidential returns dataset (historical county returns).
+2025,Ventura,California,Current election cycle,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+2026,Ventura,California,Current election cycle,0,0,,,,,,,,,,,,0,,,,,525292.0,223379.0,151858.0,23750.0,2344.0,42.525,28.909,4.521,0.446,"2026 general election is upcoming as of October 17, 2026; registration snapshot is May 18, 2026.","California Secretary of State, May 18, 2026 Report of Registration."
